@@ -1,1 +1,1 @@
-# FloppyDuck34.github.io
+# Seths_QRcode_generator.github.io
