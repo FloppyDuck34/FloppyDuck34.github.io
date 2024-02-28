@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>MARFAG Coorp.</title>
+  <link rel="stylesheet"  href="style.css"/>
+</head>
+
+<body>
+  <center>
+    <h1>title</h1>
+   internetometer
+
+
+    <!-- THIS IS THE GOOGLE SUBSCRIBE THINGY -->
+    subscribe-button
+    <!-- END OF IT -->
+
+    <br>
+    put-thing
+    <br>
+    put-thing-here
+
+
+  </center>
+</body>
+
+</html>
