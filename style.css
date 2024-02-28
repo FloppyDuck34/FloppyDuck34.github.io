@@ -4,6 +4,8 @@
 html, body {
   font-family: "Roboto Serif", serif;
   background-color: #d14002;
-  font-color: #f7ed77;
+}
+h1 {
+  color: #f7ed77;
 }
  
