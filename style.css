@@ -11,5 +11,11 @@ h1 {
 nav ul {
   list-style-type:none;
   background-color:#6032a8;
+  border: 2px solid #111111;
+  border-radius:10px;
+  font-family: "Roboto Serif", serif;
+  font-weight:bold;
+  padding:15px;
+}
 
  
