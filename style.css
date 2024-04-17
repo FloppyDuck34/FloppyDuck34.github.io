@@ -11,7 +11,7 @@ h1 {
 nav ul {
   list-style-type:none;
   background-color:#6032a8;
-  border: 2px solid #111111;
+  border: 2px solid #010101;
   border-radius:10px;
   font-family: "Roboto Serif", serif;
   font-weight:bold;
@@ -30,7 +30,7 @@ nav ul li a {
   color:#111111;
 }
 nav ul li.selected{
-  color:393939;
+  color:494949;
 }
 
 
